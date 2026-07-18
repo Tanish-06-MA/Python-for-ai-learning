@@ -1,0 +1,8 @@
+requests
+
+pandas
+
+openpyxl
+
+xml.etree
+
